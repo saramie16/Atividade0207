@@ -9,7 +9,7 @@ h1 {
     text-align: center;
     font-family: Comic Sans MS, Comic Sans, cursive;
     font-size:50px;
-    color: #f17612;
+    color: white;
     text-shadow: 5px 2px rgb(0, 0, 0);
 }
 
@@ -24,7 +24,7 @@ p {
 }
 
 h2{
-    color: rgb(113, 179, 173);
+    color: rgb(190, 196, 197);
     font-size: 20px;
     font-family: Helvetica;
     text-align: center;
